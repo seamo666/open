@@ -21,7 +21,7 @@ env:
   UPLOAD_FIRMWARE: false
   UPLOAD_RELEASE: true
   UPLOAD_WETRANSFER: false
-  UPLOAD_COWTRANSFER: false
+  UPLOAD_COWTRANSFER: ture
   TZ: Asia/Shanghai
   FILE_NAME: x64开发版
 
